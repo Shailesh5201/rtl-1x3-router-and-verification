@@ -1,6 +1,6 @@
 /************************************************************************
 
-Filename:	ram_rd_agent.sv   
+Filename:	wr_agent.sv   
 
 Author : 	Shailesh5201
 
