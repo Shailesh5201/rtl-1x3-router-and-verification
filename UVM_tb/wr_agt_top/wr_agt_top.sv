@@ -1,6 +1,6 @@
 /************************************************************************
 
-Filename:	ram_rd_agent.sv   
+Filename:	wr_agt_top.sv   
 
 Author : 	Shailesh5201
 
