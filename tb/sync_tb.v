@@ -1,3 +1,10 @@
+/************************************************************************
+
+Filename:	sync_tb.v   
+
+Author : 	Shailesh5201
+
+************************************************************************/
 module sync_router_tb();
 
 reg clock,resetn,data_in,detect_add,full_0,full_1,full_2,empty_0,empty_1,empty_2,write_enb_reg,read_enb_0,read_enb_1,read_enb_2;
