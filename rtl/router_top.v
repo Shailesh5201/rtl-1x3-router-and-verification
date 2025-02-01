@@ -1,3 +1,10 @@
+/************************************************************************
+
+Filename:	router_top.v   
+
+Author : 	Shailesh5201
+
+************************************************************************/
 module router(clock,resetn,data_in,read_enb_0,read_enb_1,read_enb_2,pkt_valid,data_out_0,data_out_1,data_out_2,vld_out_0,vld_out_1,vld_out_2,err,busy);
 
 input clock,resetn,pkt_valid,read_enb_0,read_enb_1,read_enb_2;
