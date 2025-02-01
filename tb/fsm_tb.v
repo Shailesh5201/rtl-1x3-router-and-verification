@@ -1,3 +1,10 @@
+/************************************************************************
+
+Filename:	fsm_tb.v   
+
+Author : 	Shailesh5201
+
+************************************************************************/
 module fsm_router_tb();
 
 reg  clock,resetn,pkt_valid,fifo_full,fifo_empty_0,fifo_empty_1,fifo_empty_2,soft_reset_0,soft_reset_1,soft_reset_2,parity_done,low_packet_valid;
