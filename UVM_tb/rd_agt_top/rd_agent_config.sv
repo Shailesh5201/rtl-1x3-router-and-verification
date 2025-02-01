@@ -1,6 +1,6 @@
 /************************************************************************
 
-Filename:	ram_rd_agent.sv   
+Filename:	rd_agent_config.sv   
 
 Author : 	Shailesh5201
 
