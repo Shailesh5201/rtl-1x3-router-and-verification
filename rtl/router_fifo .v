@@ -1,3 +1,10 @@
+/************************************************************************
+
+Filename:	router_fifo.v   
+
+Author : 	Shailesh5201
+
+************************************************************************/
 module fifo(clock,resetn,data_in,read_enb,write_enb,data_out,full,empty,lfd_state,soft_reset);
                           
 parameter width=9,depth=16;
