@@ -1,3 +1,10 @@
+/************************************************************************
+
+Filename:	router_register.v   
+
+Author : 	Shailesh5201
+
+************************************************************************/
 module register(clock,resetn,pkt_valid,data_in,fifo_full,detect_add,ld_state,laf_state,full_state,lfd_state,rst_int_reg,err,parity_done,low_packet_valid,dout);
 
 input [7:0]data_in;
