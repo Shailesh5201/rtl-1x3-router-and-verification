@@ -1,6 +1,6 @@
 /************************************************************************
 
-Filename:	ram_rd_agent.sv   
+Filename:	read_xtn.sv   
 
 Author : 	Shailesh5201
 
